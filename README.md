@@ -56,6 +56,8 @@ This project is open source, would love for people to come help me build it into
 
 Check the TODO list if there is anything that needs fixing also if you find any features that are missing / could be improved go ahead and just right on it.
 
+> Sadly when I wrote this I did not add that many comments for some reason stupid reason, the code is pretty easy to understand tho.
+
 # Authors
 * **Axel Svensson** - *Initial work* - [axesve](https://github.com/axesve)
 
