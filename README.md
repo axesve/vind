@@ -7,7 +7,9 @@ Electron based software that stores clipboards with **CTRL + B**.<br>
 * Correct date and time sorting, you can also hide dates if you dont want to show them by pressing the date text at the top left of each date container.
 * Themes, you can currently change between 3 themes: ```bright, dark, and stars```
 
+Default view
 ![First picture](https://i.gyazo.com/9ba827aea1d6f46547abc96dd7a28b39.png)<br>
+
 ![Second picture](https://i.gyazo.com/dcd86a826a21edbaa3afa9907a8d09be.png)<br>
 ![Third picture]( https://i.gyazo.com/9c16f044bbca35f2a5e3589e9fd904f4.png)<br>
 ![Fourth picture](https://i.gyazo.com/c32b5c233013d1a5812586861f7edce6.png)<br>
