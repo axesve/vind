@@ -1,0 +1,42 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="UTF-8">
+    <title>Vind</title>
+    <link rel="stylesheet" href="./css/style.css">
+      <style>
+        @import url('./css/Montserrat.ttf');
+      </style>
+  </head>
+  <body>
+  <script>window.$ = window.jQuery = require('jquery');</script>
+  <script>
+
+      require('electron').ipcRenderer.on('notis', (event, message) => {
+      var ipc = require('electron').ipcRenderer;
+
+        if(message == "success"){
+          $(".notisContent").removeClass("notisError");
+          $("#text").text("Clipboard saved!");
+          $("#img").attr("src","./imgs/success.png");
+          $("#img").height(25);
+          $("#img").css({ top: '5px' });
+          ipc.send('notisReady');
+        }else{
+          $(".notisContent").addClass("notisError");
+          $("#text").text("Clipboard duplicate!");
+          $("#img").attr("src","./imgs/error.png");
+          $("#img").height(20);
+          $("#img").css({ top: '3px' });
+           ipc.send('notisReady');
+        }
+        }); 
+
+  </script>
+  <div class="notisContent">
+    <p id="text">Clipboard saved!</p><img id="img" src="./imgs/success.png" style="margin-left:10px; position:relative; top:5px; height: 25px;">
+  </div>
+
+
+  </body>
+</html>

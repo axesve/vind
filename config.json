@@ -1,0 +1,8 @@
+{
+  "dest": "dist/installers/",
+  "icon": "imgs/logo.ico",
+  "iconURL":"",
+  "tags": [
+    "Utility"
+  ]
+}

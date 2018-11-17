@@ -1,0 +1,106 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+    <meta charset="UTF-8">
+    <title>Vind</title>
+    <link rel="stylesheet" href="./css/style.css">
+    <style>
+        @import url('./css/Montserrat.ttf');
+      </style>
+</head>
+
+<body>
+
+    <div class="topContent">
+        <div class="footer">
+            <div id="copyright">v 0.1 BETA</div>
+            <div id="settings">Settings</div>
+            <div id="hide">Press "Space" to hide.</div>
+        </div>
+        <div class="tagContainer">
+            <div class="addTag">+</div>| <div value="General" class='tag general selected'>General</div>
+        </div>
+    </div>
+    <div id="noObjects">You don't have any saved clipboards!<br><br>Save your clipboards by pressing<br>Ctrl + B</div>
+
+    <div class="tagList">
+        <div value="General" class='tagInList' style='background-color:#7d5fff;' id="1">General</div>
+    </div>
+
+    <div id="addTag">
+        <div class="zoomIn">
+            <div class="topFooter" style="padding-right: 10px;">
+                <div class="closeBtn" id="tag_close">X</div>
+            </div>
+            <div class="tag_container">
+                <div class="tag_content">
+                    <h2>Add tag</h2>
+
+                    <input type="text" id="tagName" class="tagInput" placeholder="Name">
+                    <input type="text" id="colorSelect" maxlength="7" class="tagInput" placeholder="#FFFFF">
+                    <div class="presetContainer">
+                        <div class="colorPreset" id="#f53b57" style="background-color: #f53b57"></div>
+                        <div class="colorPreset" id="#7d5fff" style="background-color: #7d5fff"></div>
+                        <div class="colorPreset" id="#0be881" style="background-color: #0be881"></div>
+                        <div class="colorPreset" id="#ffdd59" style="background-color: #ffdd59"></div>
+                        <div class="colorPreset" id="#4bcffa" style="background-color: #4bcffa"></div>
+                        <div class="colorPreset" id="#ffaf40" style="background-color: #ffaf40"></div>
+                    </div>
+                </div>
+
+            </div>
+            <div class="tag_footer">
+                <div id="tag_add" class="tagBtn disabled">Create tag</div>
+                <div id="exists">Tag exists!</div>
+            </div>
+        </div>
+    </div>
+
+    <div id="removeTag">
+        <div class="zoomIn">
+            <div class="topFooter" style="padding-right: 10px;">
+                <div class="closeBtn" id="remove_close">X</div>
+            </div>
+            <div class="tag_container">
+                <div class="tag_content">
+                    <h2 id="remove_tag_name">Remove 'tagName'?</h2>
+                    <p style="font-size:0.85em;">You are about to remove a tag, do you want to move containing clipboards to General or delete them aswell?</p>
+                    <div class="tagBtn redBtn" id="tag_remove">Remove them!</div>
+                    <div class="tagBtn" id="tag_move">Move them!</div>
+                </div>
+            </div>
+        </div>
+    </div>
+
+    <div id="themes">
+        <div class="zoomIn">
+            <div class="topFooter" style="padding-right: 10px;">
+                <div class="closeBtn" id="theme_close">X</div>
+            </div>
+            <div class="tag_container">
+                <div class="tag_content">
+                    <h2 id="remove_tag_name">Change theme</h2>
+                    <p style="font-size:0.85em;">Change your current Theme</p>
+                    <img class="themeBtn" value="light" src="imgs/light.png">
+                    <img class="themeBtn" value="dark" src="imgs/dark.png">
+                    <img class="themeBtn" value="darkStars" src="imgs/darkStars.png">
+                </div>
+            </div>
+        </div>
+    </div>
+
+    <div class="container">
+        <div class="objektContainer">
+        </div>
+    </div>
+
+    <script>
+        window.$ = window.jQuery = require('jquery');
+    </script>
+
+    <script src="./scripts.js"></script>
+
+</body>
+
+</html>
