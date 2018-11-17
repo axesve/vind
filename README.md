@@ -9,12 +9,15 @@ Electron based software that stores clipboards with **CTRL + B**.<br>
 
 > Default view<br>
 <img src="https://i.gyazo.com/9ba827aea1d6f46547abc96dd7a28b39.png" alt="drawing" width="200"/><br>
+
 > Clipboard added<br>
-![Second picture](https://i.gyazo.com/dcd86a826a21edbaa3afa9907a8d09be.png)<br>
+<img src="https://i.gyazo.com/dcd86a826a21edbaa3afa9907a8d09be.png" alt="drawing" width="200"/><br>
+
 > Tags<br>
-![Third picture]( https://i.gyazo.com/9c16f044bbca35f2a5e3589e9fd904f4.png)<br>
+<img src="https://i.gyazo.com/9c16f044bbca35f2a5e3589e9fd904f4.png" alt="drawing" width="200"/><br>
+
 > Themes<br>
-![Fourth picture](https://i.gyazo.com/c32b5c233013d1a5812586861f7edce6.png)<br>
+<img src="https://i.gyazo.com/c32b5c233013d1a5812586861f7edce6.png" alt="drawing" width="200"/>
 
 # Prerequisites
 Vind is built on Electron, so for you to run the current Vind application you need to have Electron installed
