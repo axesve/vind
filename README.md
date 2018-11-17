@@ -8,19 +8,19 @@ Electron based software that stores clipboards with **CTRL + B**.<br>
 * Themes, you can currently change between 3 themes: ```bright, dark, and stars```
 
 > Default view<br>
-<img src="https://i.gyazo.com/9ba827aea1d6f46547abc96dd7a28b39.png" alt="drawing" width="200"/><br>
+<img src="https://i.gyazo.com/9ba827aea1d6f46547abc96dd7a28b39.png" width="200"/><br>
 
 > Clipboard added<br>
-<img src="https://i.gyazo.com/dcd86a826a21edbaa3afa9907a8d09be.png" alt="drawing" width="200"/><br>
+<img src="https://i.gyazo.com/dcd86a826a21edbaa3afa9907a8d09be.png" width="200"/><br>
 
 > Tags<br>
-<img src="https://i.gyazo.com/9c16f044bbca35f2a5e3589e9fd904f4.png" alt="drawing" width="200"/><br>
+<img src="https://i.gyazo.com/9c16f044bbca35f2a5e3589e9fd904f4.png" width="200"/><br>
 
 > Themes<br>
-<img src="https://i.gyazo.com/c32b5c233013d1a5812586861f7edce6.png" alt="drawing" width="200"/><br>
+<img src="https://i.gyazo.com/c32b5c233013d1a5812586861f7edce6.png" width="200"/><br>
 
-https://i.gyazo.com/e410e9086ea3400b934e046a37694fe1.mp4
-<video src="https://i.gyazo.com/e410e9086ea3400b934e046a37694fe1.mp4" width="320" height="240"></video>
+> Usage<br>
+<img src="https://i.gyazo.com/e410e9086ea3400b934e046a37694fe1.mp4" width="200"/><br>
 
 # Prerequisites
 Vind is built on Electron, so for you to run the current Vind application you need to have Electron installed
