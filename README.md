@@ -40,8 +40,12 @@ npm install
 npm start
 ```
 
+# Plans
+I was going to add a backend system where all your clipboards where to be stored in a cloud, I got pretty far but did not finish it.
+
 # Contributing
-This project is open source, would love for people to come help me build it into something even better!<br>
+This project is open source, would love for people to come help me build it into something even better!<br><br>
+
 Check the TODO list if there is anything that needs fixing also if you find any features that are missing / could be improved go ahead and just right on it.
 
 # Authors
