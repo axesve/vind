@@ -31,7 +31,7 @@ Here is a list of supported OS my wish is to have these in full support but I do
 [LINK](https://i.gyazo.com/e410e9086ea3400b934e046a37694fe1.mp4)<br>
 
 # Themes
-It is possible to create custom themes, the system is not designed to make it easy but it is possible.<br>br>
+It is possible to create custom themes, the system is not designed to make it easy but it is possible.<br><br>
 
 * Add your CSS code to ```css/style.css```
 * Add a button to the Theme container in ```/index.html```
