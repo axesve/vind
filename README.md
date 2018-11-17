@@ -1,11 +1,12 @@
 # Vind
+<img src="https://i.gyazo.com/09d5228e4a97738793cdc7406be3e005.png" width="100"/>
 Electron based software that stores clipboards with **CTRL + B**.<br>
 
 # Supported OS
-Here is a list of supported OS my wish is to have these in full support but I do not own a Mac and barely use Linux so I cant test it.<br>Should be pretty straight forward however, I guess only the shortcuts needs to have a different support such as **CMD + B** for mac.
+Here is a list of supported OS my wish is to have these in full support but I do not own a Mac and barely use Linux so I cant test it.<br><br>Should be pretty straight forward however, I guess only the shortcuts needs to have a different support such as **CMD + B** for mac.
 
 * Windows 7 => 10
-* No linux support
+* No Linux support
 * No MacOS support
 
 
@@ -47,6 +48,14 @@ cd ../vind
 npm install
 npm start
 ```
+# Themes
+It is possible to create custom themes, the system is not designed to make it easy but it is possible.<br><br>
+
+* Add your CSS code to ```css/style.css```
+* Add a button to the Theme container in ```/index.html``` add this ```<img class="themeBtn" value="YOURTHEMENAME" src="imgs/YOURTHEMELOGO.png">```
+* Add YOURTHEMELOGO.png into ```imgs/```
+
+> Would LOVE someone to remake it so people could just put in a new CSS file and push a new theme name into a "theme" array.
 
 # Plans
 I was going to add a backend system where all your clipboards where to be stored in a cloud, I got pretty far but did not finish it.
@@ -56,7 +65,9 @@ This project is open source, would love for people to come help me build it into
 
 Check the TODO list if there is anything that needs fixing also if you find any features that are missing / could be improved go ahead and just right on it.
 
+> Sadly when I wrote this I did not add that many comments for some reason stupid reason, the code is pretty easy to understand tho.
+
 # Authors
-* **Axel Svensson** - *Initial work* - [axesve](https://github.com/axesve)
+* **Axel Svensson** - *Initial work* - [axesve](https://github.com/axesve) & [@axesve](https://twitter.com/axesve)
 
 
