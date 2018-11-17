@@ -2,7 +2,7 @@
 Electron based software that stores clipboards with **CTRL + B**.<br>
 
 # Supported OS
-Here is a list of supported OS my wish is to have these in full support but I do not own a Mac and barely use Linux so I cant test it.<br>Should be pretty straight forward however, I guess only the shortcuts needs to have a different support such as **CMD + B** for mac.
+Here is a list of supported OS my wish is to have these in full support but I do not own a Mac and barely use Linux so I cant test it.<br><br>Should be pretty straight forward however, I guess only the shortcuts needs to have a different support such as **CMD + B** for mac.
 
 * Windows 7 => 10
 * No Linux support
