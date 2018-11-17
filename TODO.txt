@@ -1,0 +1,7 @@
+This is a continous list of things that needs to be fixed, removed or added.<br>
+An empty list means that there is no issues, features and bugs to be taken care of. But feel free to report any bugs and or system improvements!
+
+
+* Add a installation system
+* Add Mac + Linux support
+* Add a backend system
