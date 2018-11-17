@@ -8,7 +8,7 @@ Electron based software that stores clipboards with **CTRL + B**.<br>
 * Themes, you can currently change between 3 themes: ```bright, dark, and stars```
 
 > Default view<br>
-![First picture](https://i.gyazo.com/9ba827aea1d6f46547abc96dd7a28b39.png)<br>
+![First picture](https://i.gyazo.com/9ba827aea1d6f46547abc96dd7a28b39.png =250px)<br>
 > Clipboard added<br>
 ![Second picture](https://i.gyazo.com/dcd86a826a21edbaa3afa9907a8d09be.png)<br>
 > Tags<br>
