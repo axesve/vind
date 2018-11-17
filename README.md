@@ -2,14 +2,6 @@
 <img src="https://i.gyazo.com/09d5228e4a97738793cdc7406be3e005.png" width="100"/>
 Electron based software that stores clipboards with **CTRL + B**.<br>
 
-# Supported OS
-Here is a list of supported OS my wish is to have these in full support but I do not own a Mac and barely use Linux so I cant test it.<br><br>Should be pretty straight forward however, I guess only the shortcuts needs to have a different support such as **CMD + B** for mac.
-
-* Windows 7 => 10
-* No Linux support
-* No MacOS support
-
-
 # Features
 * Full Text formatting support (newline, spaces etc)
 * Multiple tags for different things, if you want one tag for "History" then go ahead. Clicking on the default "General" at the top right will let you choose tags.
@@ -31,6 +23,13 @@ Here is a list of supported OS my wish is to have these in full support but I do
 > Video usage can be found here:<br>
 [LINK](https://i.gyazo.com/e410e9086ea3400b934e046a37694fe1.mp4)<br>
 
+# Supported OS
+Here is a list of supported OS my wish is to have these in full support but I do not own a Mac and barely use Linux so I cant test it.<br><br>Should be pretty straight forward however, I guess only the shortcuts needs to have a different support such as **CMD + B** for mac.
+
+* Windows 7 => 10
+* No Linux support
+* No MacOS support
+
 # Prerequisites
 Vind is built on Electron, so for you to run the current Vind application you need to have Electron installed
 
@@ -48,6 +47,7 @@ cd ../vind
 npm i
 npm start
 ```
+
 # Themes
 It is possible to create custom themes, the system is not designed to make it easy but it is possible.<br><br>
 
