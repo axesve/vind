@@ -45,7 +45,7 @@ You can clone the repo and run it like below:
 ```
 git clone https://github.com/axesve/vind.git
 cd ../vind
-npm install
+npm i
 npm start
 ```
 # Themes
