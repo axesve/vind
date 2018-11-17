@@ -34,9 +34,8 @@ Here is a list of supported OS my wish is to have these in full support but I do
 It is possible to create custom themes, the system is not designed to make it easy but it is possible.<br><br>
 
 * Add your CSS code to ```css/style.css```
-* Add a button to the Theme container in ```/index.html```
-```<img class="themeBtn" value="YOURTHEMENAME" src="imgs/YOURTHEMELOGO.png">```
-* Add YOURTHEMELOGO.png into imgs/
+* Add a button to the Theme container in ```/index.html``` add this ```<img class="themeBtn" value="YOURTHEMENAME" src="imgs/YOURTHEMELOGO.png">```
+* Add YOURTHEMELOGO.png into ```imgs/```
 
 > Would LOVE someone to remake it so people could just put in a new CSS file and push a new theme name into a "theme" array.
 
