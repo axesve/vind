@@ -1,4 +1,5 @@
-# Vind
+# Vind 
+<img src="https://i.gyazo.com/9dcf1aa92d92ea4d711d7310e01e2db3.png" width="200"/>
 Electron based software that stores clipboards with **CTRL + B**.<br>
 
 # Supported OS
