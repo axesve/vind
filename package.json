@@ -5,13 +5,13 @@
   "main": "main.js",
   "scripts": {
     "start": "electron .",
-    "build": "electron-packager . --out=dist/win --platform=win32 --arch=x64 --icon=imgs/logo.ico --asar --overwrite --appCopyright=\"Copyright (C) 2018 Axel Svensson. All rights reserved.\"",
+    "build": "electron-packager . --out=dist/win --platform=win32 --arch=x64 --icon=imgs/logo.ico --asar --overwrite --appCopyright=\"Copyright (C) 2018 axesve.\""
   },
   "keywords": [
-    "vind"
+    "Vind"
   ],
-  "author": "Axel Svensson",
-  "license": "CC0-1.0",
+  "author": "Vind",
+  "license": "MIT",
   "devDependencies": {
     "electron": "^3.0.9"
   },
