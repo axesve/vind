@@ -30,15 +30,6 @@ Here is a list of supported OS my wish is to have these in full support but I do
 > Video usage can be found here:<br>
 [LINK](https://i.gyazo.com/e410e9086ea3400b934e046a37694fe1.mp4)<br>
 
-# Themes
-It is possible to create custom themes, the system is not designed to make it easy but it is possible.<br><br>
-
-* Add your CSS code to ```css/style.css```
-* Add a button to the Theme container in ```/index.html``` add this ```<img class="themeBtn" value="YOURTHEMENAME" src="imgs/YOURTHEMELOGO.png">```
-* Add YOURTHEMELOGO.png into ```imgs/```
-
-> Would LOVE someone to remake it so people could just put in a new CSS file and push a new theme name into a "theme" array.
-
 # Prerequisites
 Vind is built on Electron, so for you to run the current Vind application you need to have Electron installed
 
@@ -56,6 +47,14 @@ cd ../vind
 npm install
 npm start
 ```
+# Themes
+It is possible to create custom themes, the system is not designed to make it easy but it is possible.<br><br>
+
+* Add your CSS code to ```css/style.css```
+* Add a button to the Theme container in ```/index.html``` add this ```<img class="themeBtn" value="YOURTHEMENAME" src="imgs/YOURTHEMELOGO.png">```
+* Add YOURTHEMELOGO.png into ```imgs/```
+
+> Would LOVE someone to remake it so people could just put in a new CSS file and push a new theme name into a "theme" array.
 
 # Plans
 I was going to add a backend system where all your clipboards where to be stored in a cloud, I got pretty far but did not finish it.
