@@ -59,6 +59,6 @@ Check the TODO list if there is anything that needs fixing also if you find any 
 > Sadly when I wrote this I did not add that many comments for some reason stupid reason, the code is pretty easy to understand tho.
 
 # Authors
-* **Axel Svensson** - *Initial work* - [axesve](https://github.com/axesve) & [axesve](https:((twitter.com/axesve)
+* **Axel Svensson** - *Initial work* - [axesve](https://github.com/axesve) & [@axesve](https://twitter.com/axesve)
 
 
