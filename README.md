@@ -1,6 +1,14 @@
 # Vind
 Electron based software that stores clipboards with **CTRL + B**.<br>
 
+# Supported OS
+Here is a list of supported OS my wish is to have these in full support but I do not own a Mac and barely use Linux so I cant test it.<br>Should be pretty straight forward however, I guess only the shortcuts needs to have a different support such as **CMD + B** for mac.
+
+* Windows 7 => 10
+* No linux support
+* No MacOS support
+
+
 # Features
 * Full Text formatting support (newline, spaces etc)
 * Multiple tags for different things, if you want one tag for "History" then go ahead. Clicking on the default "General" at the top right will let you choose tags.
