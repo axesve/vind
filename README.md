@@ -1,5 +1,5 @@
 # General
-<img src="https://i.gyazo.com/8de0112d86b7881254b6870ad2e5a089.png" height="100"/>
+<img src="https://i.gyazo.com/8de0112d86b7881254b6870ad2e5a089.png"/>
 Electron based software that stores clipboards with **CTRL + B**.<br>
 
 # Supported OS
