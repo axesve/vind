@@ -6,3 +6,5 @@ An empty list means that there is no issues, features and bugs to be taken care 
 * Add a installation system
 * Add Mac + Linux support
 * Add a backend system
+
+* REDO Theme system, add a "theme" array and make it so people can just add a new CSS file instead of having to the current method for adding themes. Then make the system loop thru "themes" at run time and print out new themes in the Themes selector!
