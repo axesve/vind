@@ -69,5 +69,5 @@ Check the TODO list if there is anything that needs fixing also if you find any 
 
 # Authors
 * **Axel Svensson** - *Initial work* - [axesve](https://github.com/axesve) & [@axesve](https://twitter.com/axesve)
-* **Fraasi** - *Contributor* . [fraasi](https://github.com/Fraasi/)
+* **Fraasi** - *Contributor* - [fraasi](https://github.com/Fraasi/)
 
