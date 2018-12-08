@@ -2,7 +2,7 @@
   "name": "Vind",
   "version": "0.0.1",
   "description": "A clipboard cloud service",
-  "main": "main.js",
+  "main": "src/main.js",
   "scripts": {
     "start": "electron .",
     "build": "electron-packager . --out=dist/win --platform=win32 --arch=x64 --icon=imgs/logo.ico --asar --overwrite --appCopyright=\"Copyright (C) 2018 axesve.\""
